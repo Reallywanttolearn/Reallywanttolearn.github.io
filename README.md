@@ -1,9 +1,10 @@
 ---
-coverY: 0
+cover: https://smayadikasoreang.sch.id/wp-content/uploads/2021/08/1.jpg
+coverY: -56.43509789702683
 ---
 
-# Welcome!
+# Selamat datang di kumpulan materi node js dasar
 
-## Welcome aboard!
+## Oleh : Themas Febrianto, S.Kom
 
-Welcome to the company wiki! Here you'll find everything you need to know about the company.
+materi untuk siswa RPL SMK Yadika Soreang
