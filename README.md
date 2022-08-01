@@ -2,6 +2,7 @@
 description: Materi node js dasar untuk siswa RPL SMK Yadika Soreang
 cover: https://img.devrant.com/devrant/rant/r_2339110_WTagw.jpg
 coverY: 0
+layout: landing
 ---
 
 # Materi Node JS Dasar
