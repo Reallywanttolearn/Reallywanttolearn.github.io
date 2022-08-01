@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1481487196290-c152efe083f5?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw5fHx3ZWJzaXRlfGVufDB8fHx8MTY1OTM1NjE2NA&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
+
 # Web Application
 
 ### Web Application
@@ -16,3 +22,10 @@ Client merupakan user interface atau bagian frontend dari web application, yang 
 * Server bertugas sebagai backend untuk web application, dimana semua logic aplikasi akan dilakukan di Server&#x20;
 * Biasanya Server dibuat menggunakan PHP, Pythton, Java, .NET dan banyak bahasa pemrograman lainnya&#x20;
 * Dengan adanya NodeJS, sekarang kita bisa membuat Server menggunakan JavaScript
+
+### Database
+
+* Database adalah tempat untuk menyimpan data web application
+* Data disimpan dan diambil oleh Server.
+* Client tidak bisa langsung mengambil atau menyimpan data ke Database secara langsung, oleh karena itu perlu penengah untuk melakukannya, yaitu Server
+* Database biasanya menggunakan aplikasi sistem basis data seperti misalnya MySQL, PostgreSQL, MongoDB dan lain-lain
