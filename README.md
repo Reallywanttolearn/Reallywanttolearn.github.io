@@ -1,7 +1,7 @@
 ---
 description: Materi node js dasar untuk siswa RPL SMK Yadika Soreang
-cover: https://smayadikasoreang.sch.id/wp-content/uploads/2021/08/1.jpg
-coverY: -77.22697606961566
+cover: https://img.devrant.com/devrant/rant/r_2339110_WTagw.jpg
+coverY: 0
 ---
 
 # Materi Node JS Dasar
@@ -9,3 +9,5 @@ coverY: -77.22697606961566
 ## Oleh : Themas Febrianto, S.Kom
 
 Selamat Datang di Kumpulan materi Pembelajaran Node js/express dasar
+
+![](https://img.devrant.com/devrant/rant/r\_2339110\_WTagw.jpg)
