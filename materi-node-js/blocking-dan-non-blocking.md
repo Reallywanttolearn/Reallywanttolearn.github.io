@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1598970434795-0c54fe7c0648?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8aW5zdGFsbHxlbnwwfHx8fDE2NTkzNTgzMTU&ixlib=rb-1.2.1&q=80
+coverY: 392.03524229074895
+---
+
 # Menginstall NodeJS Manual
 
 {% hint style="info" %}
