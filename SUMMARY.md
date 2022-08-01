@@ -7,4 +7,5 @@
 * [Pengenalan NodeJS](materi-node-js/pengenalan-nodejs.md)
 * [Web Application](materi-node-js/page-2.md)
 * [Concurrency dan Parallel](materi-node-js/concurrency-dan-parallel.md)
-* [Page 1](materi-node-js/page-1.md)
+* [Synchronous vs Asynchronous](materi-node-js/synchronous-vs-asynchronous.md)
+* [Blocking dan Non-Blocking](materi-node-js/blocking-dan-non-blocking.md)
