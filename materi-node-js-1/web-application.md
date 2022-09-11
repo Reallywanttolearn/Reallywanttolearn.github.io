@@ -36,7 +36,7 @@ _Front End_ dan _Back End_ adalah dua hal yang berkaitan dengan bagaimana sebuah
 
 Berkaitan dengan proses _web development_, _front end_ adalah apa yang pengguna lihat pada tampilan sebuah _website._ Sedangkan _back end_ adalah sistem di balik layar yang mengolah _database_ dan juga server.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Web Dinamis dan API
 

@@ -12,7 +12,7 @@ Dengan menggunakan Callback, program bisa menerima informasi yang dibutuhkan dar
 
 Fungsi JavaScript dieksekusi dalam urutan yang disebutkan. Tidak dalam urutan ketika didefinisikan
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ### Contoh sequence function
 
@@ -20,7 +20,7 @@ Fungsi JavaScript dieksekusi dalam urutan yang disebutkan. Tidak dalam urutan ke
 
 ### Contoh memanggil fungsi di dalam fungsi
 
-<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Contoh fungsi Callback
 

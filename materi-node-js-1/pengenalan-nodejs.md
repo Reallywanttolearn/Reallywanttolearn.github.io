@@ -35,4 +35,4 @@ Fitur seperti Document Object Model dan banyak Web API tidak bisa dilakukan di N
 
 ### perusahaan yang menggunakan node js
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
