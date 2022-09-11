@@ -8,18 +8,21 @@ Callback biasanya dibuat dalam bentuk function as parameter, dan parameter funct
 Dengan menggunakan Callback, program bisa menerima informasi yang dibutuhkan dari proses yang berjalan secara Async
 {% endhint %}
 
-### **Async Method**
+### Contoh sequence function
 
-Ada banyak method Async yang terdapat di JavaScript, yang akan kita bahas kali ini adalah&#x20;
+Fungsi JavaScript dieksekusi dalam urutan yang disebutkan. Tidak dalam urutan ketika didefinisikan
 
-* setTimeout(callback, timeInMilis), digunakan untuk menjalankan proses Async sekali dalam waktu tertentu.
-* setInterval(callback, timeInMilis), digunakan untuk menjalankan proses Async secara periodik dalam waktu tertentu.
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-**Kode : setTimeout**
+### Contoh sequence function
 
-<figure><img src="https://lh6.googleusercontent.com/N3-OjRBHtO10loo9DeBhrrZGwDCxcB5pJaQYQLMYdg9GVfnmU4PU0CiSHBZLbDFIBLza7KUaqM7q1LAMNL0RL1Tw5hvOHJSmPUfF7H-J2c2AMCa6i28wJc7FzwkIfJSlDHzU1qVEYYBntO0roqxVfg1of7MfSr9IF5JIDc8lBW4pYhWbHwEz8QTSE7z6" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-**Kode : setInterval**
+### Contoh memanggil fungsi di dalam fungsi
 
-<figure><img src="https://lh3.googleusercontent.com/80puOZzOMRsvGqY1N2IJvW74mBGDvGyWM8D5xpnilaby5Zqt_HRYapspA6GZDPZidRTyCZT9hx9R90Hst3lzNrRHJUXurRewlmdMwnnHMRhACC_DDszJpoIqxejaFqmKcJMxT8wEv4KSpw3ZnJPhKy8WgM78qQiLWIzOftb2A_--BV3XwSd-zyBSw1WC" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+### Contoh fungsi Callback
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
