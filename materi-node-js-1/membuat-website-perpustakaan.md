@@ -1,6 +1,6 @@
 # Membuat kerangka kerja  dengan express generator
 
-#### Membuat kerangka kerja / struktur folder dengan express generator
+### Membuat kerangka kerja / struktur folder dengan express generator
 
 install express generator secara global
 
@@ -36,4 +36,4 @@ npm start&#x20;
 
 hasil server
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
