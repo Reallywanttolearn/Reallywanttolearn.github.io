@@ -6,10 +6,10 @@ coverY: 0
 layout: landing
 ---
 
-# Materi Node JS Dasar
+# Materi Node JS
 
 ## Oleh : Themas Febrianto, S.Kom
 
-Selamat Datang di Kumpulan materi Pembelajaran Node js/express dasar
+ikhtisar materi Pembelajaran Node js/express dasar
 
 ![](https://img.devrant.com/devrant/rant/r\_2339110\_WTagw.jpg)
