@@ -32,4 +32,4 @@ file <mark style="color:yellow;">app.js</mark> membuat aplikasi express dengan m
 
 **maka yang terdapat pada file **<mark style="color:yellow;">**www**</mark>** sebenarnya berasal dari entri point yang sesungguhnya yaitu **<mark style="color:yellow;">**app.js**</mark>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>

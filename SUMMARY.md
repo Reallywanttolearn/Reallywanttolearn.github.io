@@ -13,4 +13,5 @@
 * [Membuat kerangka kerja  dengan express generator](materi-node-js-1/membuat-website-perpustakaan.md)
 * [Hasil dari express generator](materi-node-js-1/hasil-dari-express-generator.md)
 * [App.js](materi-node-js-1/app.js.md)
+* [Routes](materi-node-js-1/routes.md)
 * [Callback (optional)](materi-node-js-1/callback.md)
