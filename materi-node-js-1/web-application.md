@@ -29,3 +29,26 @@ Client merupakan user interface atau bagian frontend dari web application, yang 
 * Data disimpan dan diambil oleh Server.
 * Client tidak bisa langsung mengambil atau menyimpan data ke Database secara langsung, oleh karena itu perlu penengah untuk melakukannya, yaitu Server
 * Database biasanya menggunakan aplikasi sistem basis data seperti misalnya MySQL, PostgreSQL, MongoDB dan lain-lain
+
+### Frontend dan backend
+
+_Front End_ dan _Back End_ adalah dua hal yang berkaitan dengan bagaimana sebuah _website_ maupun aplikasi dapat bekerja dan diakses oleh pengguna.
+
+Berkaitan dengan proses _web development_, _front end_ adalah apa yang pengguna lihat pada tampilan sebuah _website._ Sedangkan _back end_ adalah sistem di balik layar yang mengolah _database_ dan juga server.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+### Web Dinamis dan API
+
+* API adalah singkatan dari _Application Programming Interface_, yaitu sebuah software yang memungkinkan para developer untuk mengintegrasikan dan mengizinkan dua aplikasi yang berbeda secara bersamaan untuk saling terhubung satu sama lain.
+*
+
+    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>API</p></figcaption></figure>
+* Web dinamis merupakan sebuah _website_ yang memungkinkan penggunanya untuk berinteraksi secara langsung, dalam artian pengguna dapat menambah, memodifikasi, ataupun menghapus konten di dalam sebuah web tanpa harus membuka struktur kode dari web tersebut.&#x20;
+*
+
+    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+### Diagram perbandingan web api dan web dinamis
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
