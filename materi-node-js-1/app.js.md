@@ -6,7 +6,7 @@ mari kita bahas bagian yang terdapat app.js
 
 1. import dependencies dengna menggunakan require('')
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (2).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;2\. import module dari route
 
