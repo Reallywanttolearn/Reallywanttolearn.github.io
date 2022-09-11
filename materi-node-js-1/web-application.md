@@ -36,19 +36,19 @@ _Front End_ dan _Back End_ adalah dua hal yang berkaitan dengan bagaimana sebuah
 
 Berkaitan dengan proses _web development_, _front end_ adalah apa yang pengguna lihat pada tampilan sebuah _website._ Sedangkan _back end_ adalah sistem di balik layar yang mengolah _database_ dan juga server.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Web Dinamis dan API
 
 * API adalah singkatan dari _Application Programming Interface_, yaitu sebuah software yang memungkinkan para developer untuk mengintegrasikan dan mengizinkan dua aplikasi yang berbeda secara bersamaan untuk saling terhubung satu sama lain.
 *
 
-    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>API</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>API</p></figcaption></figure>
 * Web dinamis merupakan sebuah _website_ yang memungkinkan penggunanya untuk berinteraksi secara langsung, dalam artian pengguna dapat menambah, memodifikasi, ataupun menghapus konten di dalam sebuah web tanpa harus membuka struktur kode dari web tersebut.&#x20;
 *
 
-    <figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Diagram perbandingan web api dan web dinamis
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
