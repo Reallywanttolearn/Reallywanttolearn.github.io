@@ -1,4 +1,4 @@
-# Callback
+# Callback (optional)
 
 Callback, merupakan mekanisme untuk memanggil kembali kode yang ada di program dari proses Async
 
@@ -12,7 +12,7 @@ Dengan menggunakan Callback, program bisa menerima informasi yang dibutuhkan dar
 
 Fungsi JavaScript dieksekusi dalam urutan yang disebutkan. Tidak dalam urutan ketika didefinisikan
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Contoh sequence function
 
@@ -24,5 +24,5 @@ Fungsi JavaScript dieksekusi dalam urutan yang disebutkan. Tidak dalam urutan ke
 
 ### Contoh fungsi Callback
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
