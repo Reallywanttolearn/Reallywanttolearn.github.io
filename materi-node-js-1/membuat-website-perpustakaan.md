@@ -18,7 +18,7 @@ apa itu EJS
 
 EJS (Embedded JavaScript Templating) adalah salah satu template engine paling populer untuk JavaScript. Seperti namanya, ini memungkinkan kita menyematkan kode JavaScript dalam bahasa template yang kemudian digunakan untuk menghasilkan HTML.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 kemudian jalankan&#x20;
 
@@ -28,4 +28,10 @@ npm install
 ```
 {% endhint %}
 
-lalu jalankan npm start untuk menja
+lalu jalankan npm start untuk menjalankan servernya
+
+{% hint style="info" %}
+npm start&#x20;
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
