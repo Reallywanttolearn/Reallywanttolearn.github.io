@@ -26,7 +26,7 @@ Program dalam JavaScript secara default akan dieksekusi baris per baris Secara d
 
 ### **Apa itu Asynchronous?**
 
-Walaupun secara default proses di JavaScript dieksekusi secara Synchronous, namun kita bisa membuatnya menjadi Asynchronous. Berbeda dengan proses Synchronous, pada proses Asynchronous, JavaScript tidak akan <mark style="color:orange;">menunggu proses tersebut selesai</mark>, melainkan JavaScript akan melanjutkan baris selanjutnya, <mark style="color:orange;">tanpa harus menunggu</mark> proses Asynchronous selesai. Proses Asynchronous juga biasa disebut <mark style="color:orange;">Non-Blocking</mark>.
+Walaupun secara default proses di JavaScript dieksekusi secara Synchronous, namun kita bisa membuatnya menjadi Asynchronous. Berbeda dengan proses Synchronous, pada proses Asynchronous, JavaScript tidak akan <mark style="color:yellow;">menunggu proses tersebut selesai</mark>, melainkan JavaScript akan melanjutkan baris selanjutnya, <mark style="color:yellow;">tanpa harus menunggu</mark> proses Asynchronous selesai. Proses Asynchronous juga biasa disebut Non-Blocking.
 
 **Contoh Asynchronous**
 
