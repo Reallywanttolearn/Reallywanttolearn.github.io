@@ -32,3 +32,7 @@ Pada kelas JavaScript, kita sudah membahas banyak sekali fitur JavaScript yang b
 Karena NodeJS tidak berjalan di Browser, jadi tidak semua fitur JavaScript bisa dilakukan di NodeJS
 
 Fitur seperti Document Object Model dan banyak Web API tidak bisa dilakukan di NodeJS, hal ini karena DOM dan beberapa Web API berjalan membutuhkan Browser
+
+### perusahaan yang menggunakan node js
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

@@ -2,7 +2,7 @@
 
 * [Materi Node JS](README.md)
 
-## 😎 Materi Node JS
+## Materi Node JS
 
 * [Pengenalan NodeJS](materi-node-js-1/pengenalan-nodejs.md)
 * [Web Application](materi-node-js-1/web-application.md)
