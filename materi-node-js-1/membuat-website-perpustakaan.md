@@ -34,4 +34,6 @@ lalu jalankan npm start untuk menjalankan servernya
 npm start&#x20;
 {% endhint %}
 
+hasil server
+
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
