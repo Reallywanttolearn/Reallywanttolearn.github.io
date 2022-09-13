@@ -4,7 +4,7 @@
 
 mari kita bahas bagian yang terdapat app.js
 
-1. import dependencies dengna menggunakan require('')
+1. import dependencies dengan menggunakan require('')
 
 <figure><img src="../.gitbook/assets/image (10) (2).png" alt=""><figcaption></figcaption></figure>
 
